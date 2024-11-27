@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Sushmitha224/CodePen-React.git/static/css/main.00e3ac49.css",
-    "main.js": "/Sushmitha224/CodePen-React.git/static/js/main.6d9e5595.js",
-    "static/js/787.57c64bdc.chunk.js": "/Sushmitha224/CodePen-React.git/static/js/787.57c64bdc.chunk.js",
-    "index.html": "/Sushmitha224/CodePen-React.git/index.html",
-    "main.00e3ac49.css.map": "/Sushmitha224/CodePen-React.git/static/css/main.00e3ac49.css.map",
-    "main.6d9e5595.js.map": "/Sushmitha224/CodePen-React.git/static/js/main.6d9e5595.js.map",
-    "787.57c64bdc.chunk.js.map": "/Sushmitha224/CodePen-React.git/static/js/787.57c64bdc.chunk.js.map"
+    "main.css": "/CodePen-React/static/css/main.00e3ac49.css",
+    "main.js": "/CodePen-React/static/js/main.54f7e1cc.js",
+    "static/js/787.57c64bdc.chunk.js": "/CodePen-React/static/js/787.57c64bdc.chunk.js",
+    "index.html": "/CodePen-React/index.html",
+    "main.00e3ac49.css.map": "/CodePen-React/static/css/main.00e3ac49.css.map",
+    "main.54f7e1cc.js.map": "/CodePen-React/static/js/main.54f7e1cc.js.map",
+    "787.57c64bdc.chunk.js.map": "/CodePen-React/static/js/787.57c64bdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00e3ac49.css",
-    "static/js/main.6d9e5595.js"
+    "static/js/main.54f7e1cc.js"
   ]
 }
