@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+}
+
+.top-pane {
+  background-color: #060606;
+}
+
+.pane {
+  height: 350px;
+  display: flex;
+}
+
+.editor-container {
+  flex-grow: 1;
+  flex-basis: 0;
+  display: flex;
+  flex-direction: column;
+  margin: 0px 8px 20px;
+  background-color: #060606;
+  border: 1px solid #2f2f2f;
+}
+
+.editor-title {
+  display: flex;
+  justify-content: space-between;
+  background-color: #060606;
+  color: #fff;
+  padding: 0px .5rem 0px 0px;
+  border-top-right-radius: .5rem;
+  border-top-left-radius: .5rem;
+}
+
+.editor-title h2 {
+  border-top: 3px solid #2f2f2f;
+  font-weight: 700;
+  color: rgb(170, 174, 188);
+  font-size: 16.5px;
+  font-family: Lato, "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  padding: 10px 12px;
+  margin: 0px;
+  line-height: 1;
+  background-color: #1d1e22;
+  display: flex;
+}
+
+.editor-title img {
+  width: 15px;
+  margin-right: 10px;
+}
+
+.CodeMirror {
+  height: 100% !important;
+  background-color: #1d1e22 !important;
+}
+.code-mirror-wrapper {
+  flex-grow: 1;
+  border-bottom-right-radius: .5rem;
+  border-bottom-left-radius: .5rem;
+}
+
+.CodeMirror-linenumbers {
+  background-color: #1d1e22 !important;
+}
+
+.editor-container.collapsed {
+  flex-grow: 0;
+}
+
+.editor-container.collapsed .CodeMirror-scroll {
+  position: absolute;
+  overflow: hidden !important;
+}
+
+.expand-collapse-btn {
+  margin-left: .5rem;
+  background: none;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+.CodeMirror-wrap:first-child {
+  display: none;
+}
+
+.top-header {
+  background-color: #060606;
+  border-bottom: 1px solid #2f2f2f;
+  height: 65px;
+  padding: 0px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.top-align-items {
+  display: flex;
+  align-items: center;
+}
+
+.top-header-wrap h1 {
+  color: #fff;
+  margin: 0px 10px;
+  font-size: 26px;
+}
+
+.top-header-wrap {
+  justify-content: space-between;
+  width: 100%;
+}
+
+.top-header-buttons button {
+  background-color: rgb(68, 72, 87);
+  color: #fff;
+  border-radius: 4px;
+  border: 2px solid rgb(68, 72, 87);
+  font-size: 15px;
+  margin: 0px 10px 0px 0px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
+
+.top-header-buttons button:hover {
+  background-color: rgb(90, 95, 115);
+}
+
+.top-header-buttons button svg {
+  margin-right: 5px;
+}
+
+.sign-up-button {
+  background-color: rgb(71, 207, 115) !important;
+  color: #060606 !important;
+  border-color: rgb(71, 207, 115) !important;
+}
+
+.sign-up-button:hover {
+  background-color: rgb(36, 140, 70) !important;
+  color: #fff !important;
+  border-color: rgb(36, 140, 70) !important;
+}
