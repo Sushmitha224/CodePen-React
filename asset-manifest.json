@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/CodePen-React/static/css/main.00e3ac49.css",
-    "main.js": "/CodePen-React/static/js/main.54f7e1cc.js",
-    "static/js/787.57c64bdc.chunk.js": "/CodePen-React/static/js/787.57c64bdc.chunk.js",
+    "main.css": "/CodePen-React/static/css/main.44f1687f.css",
+    "main.js": "/CodePen-React/static/js/main.105742e4.js",
     "index.html": "/CodePen-React/index.html",
-    "main.00e3ac49.css.map": "/CodePen-React/static/css/main.00e3ac49.css.map",
-    "main.54f7e1cc.js.map": "/CodePen-React/static/js/main.54f7e1cc.js.map",
-    "787.57c64bdc.chunk.js.map": "/CodePen-React/static/js/787.57c64bdc.chunk.js.map"
+    "main.44f1687f.css.map": "/CodePen-React/static/css/main.44f1687f.css.map",
+    "main.105742e4.js.map": "/CodePen-React/static/js/main.105742e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.00e3ac49.css",
-    "static/js/main.54f7e1cc.js"
+    "static/css/main.44f1687f.css",
+    "static/js/main.105742e4.js"
   ]
 }
